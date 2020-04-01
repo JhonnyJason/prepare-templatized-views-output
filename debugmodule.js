@@ -16,7 +16,9 @@
     unbreaker: true,
     // cliargumentsmodule: true
     // configmodule: true
-    mainprocessmodule: true
+    // mainprocessmodule: true
+    // pathhandlermodule: true
+    preparationmodule: true
   };
 
   // startupmodule: true
